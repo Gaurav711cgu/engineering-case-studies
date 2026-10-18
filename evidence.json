@@ -66,6 +66,10 @@
     "artha-release-20261019": {
       "sha256": "780a9559f72d6d4944435310d7abeb1f01b6250cc352c717d7f885ef0dbb74c1",
       "scope": "19 October source-bound engineering summary; preserves synthetic-data and AI qualification limits"
+    },
+    "artha-reproduction-20261019": {
+      "sha256": "63a326b1df91003d2ca7b32e5f5af22ca6e3ddfd980c6e6170c592beb5baf003",
+      "scope": "Real ULB/Worldline data; exposed-data reproduction, not new independent final"
     }
   }
 }
