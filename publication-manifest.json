@@ -1,8 +1,8 @@
 {
   "date": "2026-10-19",
   "files_sha256": {
-    "agentsentry.html": "a2991a02711a26e5502f00ba5f02a794f57a78e73955b5cc8422975f54f56c78",
-    "artha.html": "8b95cc46efd44e88d95a5b445c60f59846ebc4e6674ad0e234c4cf33226504c3",
+    "agentsentry.html": "3991f214665b18f60a1947959f71354b37ce666b667129dae03bf9680a2dea1b",
+    "artha.html": "a8322ff10155817eddf2af8f33af384ead03ab0a2d30dbf3726ee5b64bd88f4a",
     "assets/artha-workbench-2026-10-12.png": "eb8b4affba13155a6934d77fc98e1f32f34d1588013ac6f20fa75b5c4dddf19d",
     "assets/artha-workbench-2026-10-13.png": "497d80edd1a4d80e18e11a2bd88a912a7947173573dbe1fedc5425e3fe48966b",
     "assets/sentry-workspace-2026-10-12.png": "a3d30f3d0b44d576b651cf74a33f369452ca792f6682bc8df46ccd0fe7f42fa8",
