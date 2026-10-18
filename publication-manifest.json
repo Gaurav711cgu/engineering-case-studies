@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-19",
+  "files_sha256": {
+    "agentsentry.html": "a2991a02711a26e5502f00ba5f02a794f57a78e73955b5cc8422975f54f56c78",
+    "artha.html": "8b95cc46efd44e88d95a5b445c60f59846ebc4e6674ad0e234c4cf33226504c3",
+    "assets/artha-workbench-2026-10-12.png": "eb8b4affba13155a6934d77fc98e1f32f34d1588013ac6f20fa75b5c4dddf19d",
+    "assets/artha-workbench-2026-10-13.png": "497d80edd1a4d80e18e11a2bd88a912a7947173573dbe1fedc5425e3fe48966b",
+    "assets/sentry-workspace-2026-10-12.png": "a3d30f3d0b44d576b651cf74a33f369452ca792f6682bc8df46ccd0fe7f42fa8",
+    "assets/sentry-workspace-2026-10-13.png": "1f5c89d302e38d055f3248005ea49da048630b0933dca05494f4db35b985c2b1",
+    "evidence.html": "6fb0ec34b2366869870b3d4e7bc89f7c748872568473f9351cc520f805c6a7fc",
+    "evidence.json": "0567e23d1e307912f6d37108619641ce84c47769bba71ce826f8cb809d178140",
+    "index.html": "de8b95034b8cff059e541c06fd03e1e941848de930ef6e170bf1a34db6fd4387",
+    "style.css": "70baf1c85ef88cbfb6e6a97b8f76030e32ca9aa45247119770cc4f296e3b3c44"
+  },
+  "scope": "Sanitized static case studies only"
+}

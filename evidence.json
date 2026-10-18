@@ -1,0 +1,71 @@
+{
+  "schema": "reviewed-portfolio-aggregates-v1",
+  "reviewed_at": "2026-10-19",
+  "review_type": "Source-bound aggregate verification by delivery agent; not independent student reproduction",
+  "sources": {
+    "sentry-hosted": {
+      "sha256": "e41019c07c77c4e584b01e0b4d29ba623a499d4748a86e628906b19f9e5a5936",
+      "scope": "Exact-commit Linux engineering audit; development dispatch, strict predispatch"
+    },
+    "artha-hosted": {
+      "sha256": "293a48e1f131475a4e45e7cb5ec8d0a73bf88e8eaa9c1619b6af0cbd7bea1d21",
+      "scope": "Exact-commit Linux synthetic fixture/container/browser audit"
+    },
+    "artha-quality": {
+      "sha256": "7b1d260d4460f734bf37c0a7a17a056ca21828036d4a146dadca17713fd4f925",
+      "scope": "Frozen historical real-data study; exposed final, operational utility weak"
+    },
+    "sentry-diagnostics": {
+      "sha256": "8ddefb45b20cca7ce120233cd8372d0a2734297b74e1ec10bf0acd3f6af4428a",
+      "scope": "Public synthetic balanced/permutation diagnostics; zero model calls"
+    },
+    "artha-local": {
+      "sha256": "e71396cfe7584fd1137052ceb4da4e401c0c8ee809fdf3bf639bc1582eb3ad6c",
+      "scope": "Local native synthetic-model strict workbench; no quality inference or current hosted claim"
+    },
+    "sentry-local": {
+      "sha256": "8d728a8015d8fb374aa8bf106947b18fc3d66136bfea9d74b0884fc35d93fb46",
+      "scope": "Local final-source strict engineering proof; no model-quality inference, production or current hosted claim"
+    },
+    "artha-hosted-current": {
+      "sha256": "56870683bda6355f54ed2a4791be61c61d629c28a7ac27a2ba60096e65670ef4",
+      "scope": "Exact03d59e6 Linux296 fixtures/19strict workspace/12API10browser10identity;58source/13output audit. Generated synthetic model, not real-data quality."
+    },
+    "sentry-hosted-current": {
+      "sha256": "643e138a372a5a1e06617c66ebfc3df71806ab958cf61d4b421fa9ee6ee78f42",
+      "scope": "Exactd57d944 Linux strict dispatch/workspace and development Compose/saved-draft execution;854sourceentries/11recordedoutput audit. No new inference or model qualification."
+    },
+    "sentry-hosted-review-theme": {
+      "sha256": "1195ea853d76f9ce263421cc1b19eae073d1d826268c75e33bec2ee49f52be58",
+      "scope": "13 October2026 exact-head hosted engineering audit at69a9c61; synthetic runtime/fixture data, no new model-quality or human-review qualification"
+    },
+    "artha-hosted-review-theme": {
+      "sha256": "28fb4983d098cf816b0a9580c6b3c55198394534c5597c4c689663bfa80a3df7",
+      "scope": "13 October2026 exact-head hosted engineering audit ataa2c990; synthetic runtime/fixture data, no new model-quality or human-review qualification"
+    },
+    "sentry-hosted-evaluation": {
+      "sha256": "24ff6904d03402292d7e7fb7b20ed81bcc269becb464a61d4177f07720059030",
+      "scope": "Exact37517e2 Linux117 Python/67 Go/30 strict browser engineering audit;63 checks/931 source bindings. Failed public calibration runtime has no semantic result."
+    },
+    "artha-hosted-evaluation": {
+      "sha256": "423c22f18fa75f248ec214dab31478cbb4d11389cb3a3209e617265ac8733540",
+      "scope": "Exact676a479 Linux404 contracts/37 file guard/23 strict browser, containers and retained real-clock smoke;35-check audit. Synthetic fixture, no real fraud quality."
+    },
+    "sentry-hosted-resume": {
+      "sha256": "0c98b69f7e5cee2e6476666af5799aea07533a99c04b2e08e87fc6a9a247064e",
+      "scope": "14 October 2026 exact 5f1139532fd483eef1f1758bec7dbcd5831560f9 hosted engineering/source/output audit; 67 Go / 204 including subtests, 117 Python, 30 strict browser and 128 completed synthetic actions. No new model-quality or human-review qualification."
+    },
+    "artha-hosted-resume": {
+      "sha256": "0ac8336018558f92f537e028c5aca286a4c2234ab33878a2ecf4a7e858bd38d3",
+      "scope": "14 October 2026 exact 0346f4cc17533ed816d6efe89c8eb654438b929f hosted engineering/source/output audit; 404 Python, 23 strict browser, containers and retained synthetic smoke. No real fraud-quality or protected OS qualification."
+    },
+    "sentry-release-20261019": {
+      "sha256": "dfa46ab792f299e29e5aceef9303bcbd30684913fe435b7396e04665645f65a3",
+      "scope": "19 October source-bound engineering summary; preserves synthetic-data and AI qualification limits"
+    },
+    "artha-release-20261019": {
+      "sha256": "780a9559f72d6d4944435310d7abeb1f01b6250cc352c717d7f885ef0dbb74c1",
+      "scope": "19 October source-bound engineering summary; preserves synthetic-data and AI qualification limits"
+    }
+  }
+}
