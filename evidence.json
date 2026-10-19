@@ -68,8 +68,12 @@
       "scope": "19 October source-bound engineering summary; preserves synthetic-data and AI qualification limits"
     },
     "artha-reproduction-20261019": {
-      "sha256": "a4b7aab57edc8e2ce80a0ca83e55948a3243738a619479ac09932c93ff0cb9d3",
-      "scope": "Real ULB/Worldline data; exposed-data reproduction, not new independent final"
+      "sha256": "233c8bf9eae01c0249df435232f801aa97b5d6ec095876b1cd2fd66fe1c38ee0",
+      "scope": "Real ULB/Worldline exposed offline evidence complete; original failed run preserved; no independent final"
+    },
+    "sentry-measured-20261019": {
+      "sha256": "e1512671161a85a47e0c704b3115a1bb066564941c1d277be0bb96041d036ab0",
+      "scope": "Frozen v8 synthetic development: both raw semantic gates failed; actual controller replay distinct from model accuracy; no promotion or independent validation"
     }
   }
 }
