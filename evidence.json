@@ -74,6 +74,10 @@
     "sentry-measured-20261019": {
       "sha256": "e1512671161a85a47e0c704b3115a1bb066564941c1d277be0bb96041d036ab0",
       "scope": "Frozen v8 synthetic development: both raw semantic gates failed; actual controller replay distinct from model accuracy; no promotion or independent validation"
+    },
+    "sentry-repair-20261019": {
+      "sha256": "049343e1a4e5f4497b3b375adf1a8f361e99ce1ba34208ff896fb7085a741916",
+      "scope": "Prospective single-candidate synthetic repair: 121/144 raw,143/144 controller effects, no unsupported allowed effects on144 cases; raw/permutation gates fail, promotion rejected"
     }
   }
 }
